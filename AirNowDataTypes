@@ -1,0 +1,33 @@
+#code, name, units
+NO,Nitric Oxide,ppb
+NO2T,Nitrogen Doxide (True Measure),ppb
+NO2,Nitrogen Dioxide (Computed Nitrogen Oxides - Nitric Oxide),ppb
+NO2Y,Nitrogen Dioxed (Computed Total Reactive Nitrogen - Nitric oxide),ppb
+NOX,Nitrogen Oxides,ppb
+NOY,Total Reactive Nitrogen,ppb
+NO3,Nitrate Ion Concentration (Not Adjusted for Ammonium Ion),ug/m^3
+SO4,Sulfate Ion Concentation (Not adjusted for Ammonium Ion),ug/m^3
+SO2,Sulfur Dioxde,ppb
+SO2-24HR,Sulfur Dioxide 24-hr Average,ppb
+SO2T,Sulfur Dioxide Trace Levels,ppb
+CO,Carbon Monoxide,ppm
+CO-8HR,Peak Carbon Monoxide 8-hr Average,ppm
+COT,Carbon Monxoide Trace Levels,ppb
+EC,Elemental Carbon - PM2.5,ug/m^3
+OC,Organic Carbon - PM2.5 (Not Adjusted for Oxygen and Hydrogen),ug/m^3
+BC,Black Carbon at 880 nm,ug/m^3
+UV-AETH,Second Channel of Aethalometer at 370 nm,ug/m^3
+PM2.5,PM2.5 mass,ug/m^3
+PM10,PM10 mass,ug/m^3
+OZONE,Ozone,ppb
+OZONE-8HR,Peak Ozone 8-hr Average,ppb
+OZONE-1HR,Peak Ozone 1-hr Average,ppb
+PM2.5-24HR,PM2.5 mass 24-hr average,ug/m^3
+PM10-24HR,PM10 mass 24-hr average,ug/m^3
+TEMP,Ambient Temperature,C
+WS,Wind Speed,m/s
+WD,Wind Direction,degrees
+RHUM,Relative Humidity,%
+BARPR,Barometric Pressure,mb
+SRAD,Solar Radiation,watts/m^2
+PRECIP,Precipitation,mm

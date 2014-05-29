@@ -1,0 +1,6 @@
+.DS_Store
+*.iws
+data
+build
+dist
+config.properties
