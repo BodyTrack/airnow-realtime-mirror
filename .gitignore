@@ -4,5 +4,5 @@ data
 build
 dist
 config.properties
-airnow-mirron-cron
+airnow-mirror-cron
 
